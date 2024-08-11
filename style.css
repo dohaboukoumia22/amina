@@ -192,7 +192,7 @@ section{
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background: url(../jk.jpg) no-repeat;
+  background: url(jk.jpg) no-repeat;
    background-size: contain; /* Ajuste l'image pour qu'elle soit entièrement visible */
   background-size: cover; /* Couvre entièrement le conteneur */
   background-position: center; /* Centre l'image pour un meilleur rendu */
