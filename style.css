@@ -514,11 +514,13 @@ section{
 
 /* footer */
 
-.footer{
-  background: url(ff.jpg) no-repeat;
-  background-size: cover;
-  padding: 3rem 7%;
+.footer {
+    background: url('ff.jpg') no-repeat center center;
+    background-size: cover; /* Couvre entièrement le conteneur */
+    padding: 3rem 7%;
+    height: 200px; /* Définir une hauteur si nécessaire pour visualiser l'image */
 }
+
 
 .footer .box-container{
   display: grid;
